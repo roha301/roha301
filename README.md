@@ -1,68 +1,63 @@
 <div align="center">
 
-<!-- MINIMALIST TECH HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=ROHAN%20GHUGE&fontSize=80&fontColor=58A6FF&animation=twinkling&desc=Full-Stack%20Architect%20|%20AI%20Engineer&descSize=20&descAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=220&section=header&text=ROHAN%20GHUGE&fontSize=80&fontColor=58A6FF&animation=twinkling&desc=Full-Stack%20Architect%20|%20AI%20Engineer&descSize=20&descAlignY=70"/>
 
 <br/>
 
-<!-- DYNAMIC TYPING STATUS -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+Scalable+Solutions;Fine-tuning+AI+Models;Exploring+Cloud+Native;Crafting+Digital+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Full-Stack+MERN+Developer;AI+%2F+ML+Enthusiast;Game+Dev+%26+AR%2FVR+Explorer;Building+Scalable+Solutions" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Exploring%20Opportunities-007ACC?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Location-Maharashtra%2C%20India-007ACC?style=for-the-badge&logo=googlemaps" />
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Opportunities-007ACC?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Location-Nashik%2C%20India-007ACC?style=flat-square&logo=googlemaps" />
 </p>
 
 </div>
 
 ---
 
-## ⚡ Quick Scan
+## ⚡ Technical Profile
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="60%" valign="top">
       <h3>🚀 The Mission</h3>
-      I am a <b>Full-Stack Developer</b> specializing in the MERN stack and AI integration. My goal is to build software that isn't just functional, but <i>intelligent</i> and <i>frictionless</i>.
+      I am a <b>Computer Science & Design</b> student specializing in intelligent systems. I bridge the gap between robust backend architecture and immersive user experiences.
       <br/><br/>
-      <b>Current Focus:</b>
+      <b>Core Expertise:</b>
       <ul>
-        <li>🏗️ Microservices Architecture</li>
-        <li>🧠 LLM Orchestration</li>
-        <li>☁️ Serverless Deployments</li>
+        <li>🏗️ <b>Full-Stack:</b> MERN (MongoDB, Express, React, Node.js)</li>
+        <li>🧠 <b>AI Intelligence:</b> RAG & Agentic AI (INDRA-RAG)</li>
+        <li>🎮 <b>Interactive:</b> Unity, C++, and AR/VR</li>
       </ul>
     </td>
-    <td width="50%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueXByeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueXByeHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ The Forge (Tech Stack)
 
 <div align="center">
 
-### 💻 Frontend & Styling
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,sass,figma)](https://skillicons.dev)
+### 💻 Web & Mobile Development
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,mongodb,kotlin,androidstudio,firebase)](https://skillicons.dev)
 
-### ⚙️ Backend & Intelligence
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,py,mongodb,postgres,pytorch,tensorflow,fastapi)](https://skillicons.dev)
-
-### ☁️ Infrastructure & Tools
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,git,linux,postman,unity,githubactions)](https://skillicons.dev)
+### ⚙️ Intelligence & Systems
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,aws,docker,linux,cpp,unity,figma,postman)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## 📊 Analytics & Impact
+## 📊 Performance & Contributions
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=roha301&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roha301&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=roha301&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roha301&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" height="175" />
 
 <br/>
 
@@ -72,15 +67,16 @@
 
 ---
 
-## 📂 Featured Repositories
+## 🏆 Featured Milestones
 
 <div align="center">
 
-| Project | Tech | Status |
+| Project | Focus | Tech |
 | :--- | :--- | :--- |
-| **🤖 Neural-Chat-UI** | `Next.js`, `OpenAI`, `Tailwind` | ![Active](https://img.shields.io/badge/-Live-green) |
-| **☁️ DevOps-Pipeline** | `Docker`, `AWS`, `Github Actions` | ![Stable](https://img.shields.io/badge/-Stable-blue) |
-| **🛒 E-Com Dashboard** | `MERN`, `Socket.io`, `Redux` | ![Completed](https://img.shields.io/badge/-Finished-007ACC) |
+| **🚨 INDRA-RAG** | Disaster Response Intelligence | `AI/ML`, `RAG`, `Python` |
+| **💰 FinTrack** | Personal Finance Management | `MERN`, `Charts.js` |
+| **🏛️ CHRS** | Hall Reservation System | `Full-Stack`, `UI/UX` |
+| **🎮 Threshold** | Game Pitch Arena Winner | `Unity`, `C#` |
 
 </div>
 
@@ -103,6 +99,6 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=100&section=footer&text=HAPPY%20CODING&fontSize=40&fontColor=58A6FF&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=80&section=footer&text=CONTINUOUS%20LEARNING&fontSize=30&fontColor=58A6FF&animation=fadeIn"/>
 
 </div>
