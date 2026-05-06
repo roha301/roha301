@@ -1,11 +1,14 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:7c3aed,100:f472b6&height=220&section=header&text=ROHAN%20GHUGE&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=⚡%20Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Maharashtra%2C%20India%20🇮🇳&descAlignY=62&descSize=16&descColor=e2d9ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:7c3aed,100:f472b6&height=220&section=header&text=ROHAN%20GHUGE&fontSize=65&fontColor=ffffff&animation=fadeIn"/>
+
+<!-- ANIME WELCOME GIF -->
+<img src="https://media.giphy.com/media/L8K62iTDkzGxC/giphy.gif" width="120" height="120" alt="Anime Welcome" style="margin: 20px 0;"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=⚡+MERN+Stack+%7C+Python+%7C+AI%2FML+%7C+Flutter;🎯+Crafting+Elegant+Code+%26+Beautiful+UIs;🌸+Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=⚡+MERN+Stack+Developer;🎌+Anime+%26+Code+Enthusiast;🚀+AI%2FML+Builder;💻+Full-Stack+Wizard" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -25,6 +28,8 @@
 <div align="center">
 
 ## ⚔️ `[ THE PROTAGONIST ]`
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" alt="Anime Coding"/>
 
 </div>
 
@@ -51,6 +56,8 @@
 
 ## 🌐 `[ CONNECT WITH ME ]`
 
+<img src="https://media.giphy.com/media/l0HlKy9x-0s1lK8EM/giphy.gif" width="80" alt="Anime Wave"/>
+
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan%20Ghuge-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/rohan-ghuge-9b3ab0288)
@@ -66,6 +73,8 @@
 <div align="center">
 
 ## 🔥 `[ POWER LEVEL: OVER 9000 ]`
+
+<img src="https://media.giphy.com/media/KzJkzjggfGN5iUvOQe/giphy.gif" width="100" alt="Anime Power"/>
 
 </div>
 
@@ -111,17 +120,52 @@
 
 <div align="center">
 
+## 🎨 `[ ANIME SHOWCASE ]`
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqKSJFQ/giphy.gif" width="150" height="120" alt="Dev Animation"/>
+      <br/>
+      <strong>💻 Dev Mode</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://media.giphy.com/media/MC6eSuCUe78ujVYvJS/giphy.gif" width="150" height="120" alt="Success"/>
+      <br/>
+      <strong>✨ Success</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150" height="120" alt="Anime Energy"/>
+      <br/>
+      <strong>⚡ Energy</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://media.giphy.com/media/g9GznKK0ZX9fo1JFVA/giphy.gif" width="150" height="120" alt="Anime Celebration"/>
+      <br/>
+      <strong>🎉 Victory</strong>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
 ## 📊 `[ BATTLE STATISTICS ]`
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=roha301&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=f472b6&text_color=ffffff&ring_color=7c3aed&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=roha301&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=f472b6&text_color=ffffff&ring_color=7c3aed" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=roha301&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=ffffff&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=roha301&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=ffffff&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=roha301&theme=radical&hide_border=true&background=0d0d0d&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888" alt="Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=roha301&theme=radical&hide_border=true&background=0d0d0d&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888" alt="GitHub Streak Stats"/>
 
 <br/><br/>
 
@@ -135,6 +179,8 @@
 
 ## 🌸 `[ RANDOM WISDOM ]`
 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrMEicvH/giphy.gif" width="60" alt="Thinking"/>
+
 <br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
@@ -146,6 +192,8 @@
 <div align="center">
 
 ## 🐍 `[ THE COMMIT SERPENT ]`
+
+<img src="https://media.giphy.com/media/3o6Zt6KHxJTbXCnSvu/giphy.gif" width="60" alt="Snake Energy"/>
 
 <br/>
 
@@ -161,13 +209,46 @@
 
 <div align="center">
 
+## 🎌 `[ ANIME & CODE ]`
+
+<img src="https://media.giphy.com/media/l0HlKy9x-0s1lK8EM/giphy.gif" width="100" alt="Anime Power"/>
+
 ```
 ╔═══════════════════════════════════════════════════════════════╗
 ║   ⚡  "Code is my jutsu. Bugs are my training arc."  ⚡      ║
 ║         — Rohan Ghuge, Shinobi of the Stack 🥷                ║
+║                                                               ║
+║   🎌 Powered by MERN · Driven by Passion · Fueled by Coffee  ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 `[ SPECIAL FEATURES ]`
+
+| 🎯 Feature | 📊 Stats |
+|-----------|---------|
+| **Projects** | 20+ Awesome Projects 🚀 |
+| **Contributions** | 1000+ Total Commits 💪 |
+| **Experience** | 3+ Years Coding ⏱️ |
+| **Anime Energy** | ∞ Power Level 🔥 |
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWm/giphy.gif" width="50" alt="Bye"/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,50:7c3aed,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+
+### ✨ Thanks for visiting! Keep coding & stay inspired ✨
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGxC/giphy.gif" width="60" alt="Anime Thanks"/>
 
 </div>
