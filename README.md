@@ -1,241 +1,308 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:7c3aed,100:f472b6&height=220&section=header&text=ROHAN%20GHUGE&fontSize=65&fontColor=ffffff&animation=fadeIn"/>
+<!-- ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,25:FB5607,50:FFBE0B,75:8338EC,100:3A86FF&height=250&section=header&text=ROHAN%20GHUGE&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-<!-- ANIME WELCOME GIF -->
-<img src="https://media.giphy.com/media/L8K62iTDkzGxC/giphy.gif" width="120" height="120" alt="Anime Welcome" style="margin: 20px 0;"/>
+<!-- WELCOME GREETING -->
+<h2>🌟 Welcome to My GitHub Universe 🌟</h2>
+<p><em>Full-Stack Developer | AI/ML Enthusiast | Open-Source Contributor</em></p>
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=⚡+MERN+Stack+Developer;🎌+Anime+%26+Code+Enthusiast;🚀+AI%2FML+Builder;💻+Full-Stack+Wizard" alt="Typing SVG"/>
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=roha301&label=👁️%20Profile%20Views&color=7c3aed&style=for-the-badge&labelColor=0d0d0d"/>
+<!-- PROFILE BADGES -->
+<img src="https://img.shields.io/badge/Status-Open%20To%20Opportunities-brightgreen?style=flat-square&logo=github" alt="Status"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/roha301?label=Followers&style=for-the-badge&color=f472b6&labelColor=0d0d0d&logo=github"/>
+<img src="https://img.shields.io/badge/Location-Maharashtra%2C%20India-%23FF006E?style=flat-square&logo=googlemaps" alt="Location"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Experience-3%2B%20Years-blue?style=flat-square&logo=calendar" alt="Experience"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=roha301&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies"/>
+<!-- VISITOR COUNTER -->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=roha301&label=Profile%20Visitors&color=0&icon=0&pretty=true" alt="Visitor Count"/>
+</a>
 
 </div>
 
 ---
 
-<div align="center">
+## 🎯 About Me
 
-## ⚔️ `[ THE PROTAGONIST ]`
+<div align="left">
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" alt="Anime Coding"/>
+**Hello! I'm Rohan Pankaj Ghuge**, a passionate Full-Stack Developer from Maharashtra, India 🇮🇳
 
-</div>
+I specialize in building **scalable web applications**, **AI-powered solutions**, and **user-centric designs**. With 3+ years of development experience, I love turning ideas into reality through clean code and innovative thinking.
 
-```yaml
-╔══════════════════════════════════════════════════════════════╗
-║                    CHARACTER PROFILE                         ║
-╠══════════════════════════════════════════════════════════════╣
-║  NAME     │  Rohan Pankaj Ghuge                              ║
-║  ORIGIN   │  Maharashtra, India 🇮🇳                           ║
-║  CLASS    │  Full-Stack Dev │ AI Builder │ UI/UX Craftsman   ║
-║  LEVEL    │  ████████████████░░░░  Expert                    ║
-║  STACK    │  MERN · Python · AI/ML · Flutter · DevOps        ║
-║  CONTACT  │  rohanghuge21@gmail.com                          ║
-║  RESUME   │  https://rohan-resume.edgeone.app                ║
-║  PROJECTS │  https://github.com/roha301                      ║
-║  FUN FACT │  Writes clean code & smashes sixes 🏏            ║
-║  STATUS   │  ● OPEN TO OPPORTUNITIES                         ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-<div align="center">
-
-## 🌐 `[ CONNECT WITH ME ]`
-
-<img src="https://media.giphy.com/media/l0HlKy9x-0s1lK8EM/giphy.gif" width="80" alt="Anime Wave"/>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan%20Ghuge-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/rohan-ghuge-9b3ab0288)
-[![Instagram](https://img.shields.io/badge/Instagram-_.rohanghuge._-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d)](https://instagram.com/_.rohanghuge._)
-[![Gmail](https://img.shields.io/badge/Gmail-rohanghuge21-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:rohanghuge21@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d)](https://rohan-resume.edgeone.app)
-[![GitHub](https://img.shields.io/badge/GitHub-roha301-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/roha301)
+### 🎨 What I Love:
+- 💻 **Web Development** - Crafting beautiful, responsive interfaces
+- 🤖 **AI & Machine Learning** - Building intelligent solutions
+- 🎮 **Game Development** - Creating immersive experiences with Unity
+- 📱 **Mobile Development** - Cross-platform applications with Flutter
+- ☁️ **Cloud & DevOps** - Deploying scalable solutions
 
 </div>
 
 ---
 
+## 🏆 Achievements & Stats
+
 <div align="center">
 
-## 🔥 `[ POWER LEVEL: OVER 9000 ]`
-
-<img src="https://media.giphy.com/media/KzJkzjggfGN5iUvOQe/giphy.gif" width="100" alt="Anime Power"/>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=roha301&theme=github_dark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)
 
 </div>
 
-### ⚛️ Frontend & Mobile
+---
 
+## 💻 Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🗡️ Backend & Databases
-
+### ⚙️ Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🧠 AI / ML & Languages
-
+### 🤖 AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 📱 Mobile & Cross-Platform
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### ☁️ Cloud, DevOps & Tools
+### 🎮 Game Development
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
----
-
-<div align="center">
-
-## 🎨 `[ ANIME SHOWCASE ]`
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqKSJFQ/giphy.gif" width="150" height="120" alt="Dev Animation"/>
-      <br/>
-      <strong>💻 Dev Mode</strong>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/MC6eSuCUe78ujVYvJS/giphy.gif" width="150" height="120" alt="Success"/>
-      <br/>
-      <strong>✨ Success</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150" height="120" alt="Anime Energy"/>
-      <br/>
-      <strong>⚡ Energy</strong>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/g9GznKK0ZX9fo1JFVA/giphy.gif" width="150" height="120" alt="Anime Celebration"/>
-      <br/>
-      <strong>🎉 Victory</strong>
-    </td>
-  </tr>
-</table>
+### 🛠️ Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
+## 📊 GitHub Statistics
+
 <div align="center">
 
-## 📊 `[ BATTLE STATISTICS ]`
+### 🎯 Performance Metrics
 
-<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roha301&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&text_color=58A6FF&icon_color=58A6FF&title_color=58A6FF&ring_color=58A6FF&include_all_commits=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=roha301&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=f472b6&text_color=ffffff&ring_color=7c3aed" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=roha301&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roha301&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&text_color=58A6FF&title_color=58A6FF&langs_count=10)
 
-<br/><br/>
+### 🔥 Streak Statistics
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=roha301&theme=radical&hide_border=true&background=0d0d0d&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888" alt="GitHub Streak Stats"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roha301&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6C37&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=58A6FF)
 
-<br/><br/>
+### 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=roha301&bg_color=0d0d0d&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=7c3aed&hide_border=true" alt="Activity Graph"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roha301&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6C37&area=true&area_color=1F6FEB&hide_border=true)
 
 </div>
 
 ---
 
+## 🎓 Expertise Areas
+
 <div align="center">
 
-## 🌸 `[ RANDOM WISDOM ]`
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrMEicvH/giphy.gif" width="60" alt="Thinking"/>
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+| Area | Proficiency | Experience |
+|------|-------------|------------|
+| **Full-Stack Web Development** | ⭐⭐⭐⭐⭐ | 3+ Years |
+| **React & Modern Frontend** | ⭐⭐⭐⭐⭐ | 2+ Years |
+| **Node.js & Backend** | ⭐⭐⭐⭐⭐ | 2+ Years |
+| **Database Design** | ⭐⭐⭐⭐ | 2+ Years |
+| **AI/ML Implementation** | ⭐⭐⭐⭐ | 1+ Years |
+| **DevOps & Cloud** | ⭐⭐⭐⭐ | 1.5+ Years |
+| **Mobile Development** | ⭐⭐⭐⭐ | 1+ Years |
+| **UI/UX Design** | ⭐⭐⭐⭐ | 1.5+ Years |
 
 </div>
 
 ---
 
+## 🚀 Featured Projects
+
 <div align="center">
 
-## 🐍 `[ THE COMMIT SERPENT ]`
+### 📌 Showcase of My Work
 
-<img src="https://media.giphy.com/media/3o6Zt6KHxJTbXCnSvu/giphy.gif" width="60" alt="Snake Energy"/>
+| Project | Description | Tech Stack | Status |
+|---------|-------------|-----------|--------|
+| 🌐 **MERN Dashboard** | Real-time analytics & admin panel | React, Node, MongoDB | ✅ Complete |
+| 🤖 **AI Chat Assistant** | GPT-powered chatbot with UI | Python, Flask, React | ✅ Complete |
+| 📱 **Mobile App** | Cross-platform todo application | Flutter, Firebase | ✅ Complete |
+| 🎮 **Unity Game** | Interactive 3D game experience | Unity, C# | 🔄 In Progress |
+| ☁️ **Cloud Infrastructure** | AWS deployment & DevOps setup | AWS, Docker, CI/CD | ✅ Complete |
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roha301/roha301/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roha301/roha301/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/roha301/roha301/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+*Visit my repositories for more detailed project information!*
 
 </div>
 
 ---
 
+## 🌐 Connect With Me
+
 <div align="center">
 
-## 🎌 `[ ANIME & CODE ]`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-ghuge-9b3ab0288)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roha301)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanghuge21@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_.rohanghuge._)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://rohan-resume.edgeone.app)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://rohan-resume.edgeone.app)
 
-<img src="https://media.giphy.com/media/l0HlKy9x-0s1lK8EM/giphy.gif" width="100" alt="Anime Power"/>
+</div>
+
+---
+
+## 💼 What I'm Currently Working On
+
+<div align="center">
+
+🔬 **Learning:** Advanced System Design & Scalability Patterns  
+🚀 **Building:** Full-stack SaaS application with real-time features  
+📚 **Contributing:** Open-source projects in the web dev community  
+🎯 **Exploring:** Web3, Blockchain, and Smart Contracts  
+
+</div>
+
+---
+
+## 📝 Latest Articles & Insights
+
+<div align="center">
+
+💡 Check out my blog for insights on:
+- Building scalable MERN applications
+- AI/ML integration in web apps
+- DevOps best practices
+- Full-stack development tips
+
+</div>
+
+---
+
+## 🎉 Fun Facts About Me
+
+<div align="center">
+
+🏏 **Cricket Enthusiast** - Love playing and watching cricket  
+⚽ **Sports Fan** - Football, badminton, and outdoor activities  
+📚 **Book Lover** - Always reading tech blogs and tutorials  
+🎵 **Music** - Coding with lo-fi beats is my thing  
+🎮 **Gamer** - Casual gaming and game development  
+☕ **Coffee Addict** - Powered by ☕ and passion  
+
+</div>
+
+---
+
+## 🛠️ How I Work
+
+<div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║   ⚡  "Code is my jutsu. Bugs are my training arc."  ⚡      ║
-║         — Rohan Ghuge, Shinobi of the Stack 🥷                ║
-║                                                               ║
-║   🎌 Powered by MERN · Driven by Passion · Fueled by Coffee  ║
-╚═══════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────┐
+│   💭 IDEA  →  🎨 DESIGN  →  💻 CODE  →  🧪 TEST   │
+│              ↓                                       │
+│          📊 ITERATE  ←  📈 ANALYZE  ←  ✅ DEPLOY   │
+└─────────────────────────────────────────────────────┘
+```
+
+**My Development Philosophy:**
+- Write clean, maintainable, and well-documented code
+- Follow SOLID principles and design patterns
+- Prioritize user experience and accessibility
+- Continuous learning and skill development
+- Collaborate effectively with teams
+
+</div>
+
+---
+
+## 📊 Contribution Statistics
+
+<div align="center">
+
+```
+Commits      ████████████████████░░░░░░  1000+
+Pull Requests ███████████████░░░░░░░░░░░░  150+
+Issues Closed ██████████████░░░░░░░░░░░░░  200+
+Collaborations ███████████░░░░░░░░░░░░░░░░  50+
+Projects     ██████████████████░░░░░░░░░░  25+
 ```
 
 </div>
 
 ---
 
+## 🎯 Personal Goals
+
 <div align="center">
 
-## 🌟 `[ SPECIAL FEATURES ]`
+✨ **2024-2025 Goals:**
+- [ ] Contribute to 10+ significant open-source projects
+- [ ] Build 5 production-ready SaaS applications
+- [ ] Master Advanced System Design
+- [ ] Learn Web3 & Blockchain Development
+- [ ] Write technical blog posts & tutorials
+- [ ] Build an AI-powered application
+- [ ] Achieve 5000+ GitHub followers
+- [ ] Speak at developer conferences
 
-| 🎯 Feature | 📊 Stats |
-|-----------|---------|
-| **Projects** | 20+ Awesome Projects 🚀 |
-| **Contributions** | 1000+ Total Commits 💪 |
-| **Experience** | 3+ Years Coding ⏱️ |
-| **Anime Energy** | ∞ Power Level 🔥 |
+</div>
+
+---
+
+## 💖 Support & Appreciation
+
+<div align="center">
+
+If you find my work helpful or inspiring, feel free to:
+- ⭐ **Star** my repositories
+- 🔄 **Fork** projects you'd like to contribute to
+- 💬 **Follow** for more updates and content
+- 📧 **Reach out** for collaborations or opportunities
+
+</div>
+
+---
+
+## 📜 License & Credits
+
+<div align="center">
+
+All projects are open-source and available under the MIT License unless specified otherwise.
+
+**Made with ❤️ by Rohan Ghuge**
+
+Last Updated: May 6, 2026
 
 </div>
 
@@ -243,12 +310,11 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWm/giphy.gif" width="50" alt="Bye"/>
+<!-- FOOTER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3A86FF,25:8338EC,50:FFBE0B,75:FB5607,100:FF006E&height=200&section=footer&text=Happy%20Coding!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=60"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,50:7c3aed,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+### ✨ Thank You For Visiting! ✨
 
-### ✨ Thanks for visiting! Keep coding & stay inspired ✨
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGxC/giphy.gif" width="60" alt="Anime Thanks"/>
+*Keep Learning, Keep Building, Keep Growing!* 🚀
 
 </div>
