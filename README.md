@@ -1,173 +1,138 @@
 <div align="center">
-
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:7c3aed,100:f472b6&height=220&section=header&text=ROHAN%20GHUGE&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=⚡%20Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Maharashtra%2C%20India%20🇮🇳&descAlignY=62&descSize=16&descColor=e2d9ff"/>
-
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=⚡+MERN+Stack+%7C+Python+%7C+AI%2FML+%7C+Flutter;🎯+Crafting+Elegant+Code+%26+Beautiful+UIs;🌸+Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG"/>
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=roha301&label=👁️%20Profile%20Views&color=7c3aed&style=for-the-badge&labelColor=0d0d0d"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/roha301?label=Followers&style=for-the-badge&color=f472b6&labelColor=0d0d0d&logo=github"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=roha301&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies"/>
-
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="430" alt="Animated coding desk GIF">
 </div>
+
+<h1 align="center">Rohan Pankaj Ghuge</h1>
+
+<p align="center">
+  <b>Full Stack Developer | AI Builder | UI/UX Craftsman</b>
+</p>
+
+<p align="center">
+  Maharashtra, India | MERN | Python | AI/ML | Flutter | DevOps
+</p>
+
+<p align="center">
+  <a href="https://github.com/roha301?tab=repositories">Projects</a>
+  &nbsp;|&nbsp;
+  <a href="https://rohan-resume.edgeone.app">Resume</a>
+  &nbsp;|&nbsp;
+  <a href="mailto:rohanghuge21@gmail.com">Email</a>
+  &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/rohan-ghuge-9b3ab0288">LinkedIn</a>
+</p>
 
 ---
 
-<div align="center">
+## About Me
 
-## ⚔️ `[ THE PROTAGONIST ]`
+<table>
+  <tr>
+    <td width="60%">
 
-</div>
+I build web apps, AI-assisted tools, and polished user interfaces that turn complex ideas into practical products.
 
-```yaml
-╔══════════════════════════════════════════════════════════════╗
-║                    CHARACTER PROFILE                         ║
-╠══════════════════════════════════════════════════════════════╣
-║  NAME     │  Rohan Pankaj Ghuge                              ║
-║  ORIGIN   │  Maharashtra, India 🇮🇳                           ║
-║  CLASS    │  Full-Stack Dev │ AI Builder │ UI/UX Craftsman   ║
-║  LEVEL    │  ████████████████░░░░  Expert                    ║
-║  STACK    │  MERN · Python · AI/ML · Flutter · DevOps        ║
-║  CONTACT  │  rohanghuge21@gmail.com                          ║
-║  RESUME   │  https://rohan-resume.edgeone.app                ║
-║  PROJECTS │  https://github.com/roha301                      ║
-║  FUN FACT │  Writes clean code & smashes sixes 🏏            ║
-║  STATUS   │  ● OPEN TO OPPORTUNITIES                         ║
-╚══════════════════════════════════════════════════════════════╝
+My work usually sits between engineering logic and user experience: clean frontend flows, useful backend systems, technical dashboards, simulations, and automation tools.
+
+I like building projects that are:
+
+- Fast enough to feel smooth
+- Clear enough to understand quickly
+- Practical enough to solve a real problem
+- Documented enough for other people to use
+
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230" alt="Animated developer GIF">
+    </td>
+  </tr>
+</table>
+
+---
+
+## Featured Build
+
+### Antenna Placement Optimizer
+
+An interactive 5G antenna placement simulator that compares classical optimization with a quantum-inspired QAOA-style workflow.
+
+| Feature | What it does |
+| --- | --- |
+| Live controls | Tune antenna count, spacing, and coverage radius |
+| Classical optimization | Measures interference using pairwise overlap and frequency assignment |
+| Quantum-inspired mode | Shows candidate states, energy reduction, and measurement-style collapse |
+| Comparison view | Reviews coverage, interference, efficiency, and metric deltas |
+| Export flow | Creates a clean summary for reports and documentation |
+
+Repository: [github.com/roha301/antenna-optimization](https://github.com/roha301/antenna-optimization)
+
+---
+
+## Tech Arsenal
+
+| Frontend | Backend | AI and Data | Tools |
+| --- | --- | --- | --- |
+| React | Node.js | Python | Git |
+| Next.js | Express.js | Machine Learning | GitHub |
+| JavaScript | MongoDB | Data Analysis | Vercel |
+| Tailwind CSS | REST APIs | Automation | npm |
+| Flutter | Authentication | Prompt Engineering | Figma |
+
+---
+
+## Build Style
+
+```text
+problem
+  -> understand the user
+  -> model the logic
+  -> design the flow
+  -> build the interface
+  -> connect the system
+  -> test the experience
+  -> document the result
 ```
 
 ---
 
-<div align="center">
+## Current Focus
 
-## 🌐 `[ CONNECT WITH ME ]`
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohan%20Ghuge-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/rohan-ghuge-9b3ab0288)
-[![Instagram](https://img.shields.io/badge/Instagram-_.rohanghuge._-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d)](https://instagram.com/_.rohanghuge._)
-[![Gmail](https://img.shields.io/badge/Gmail-rohanghuge21-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:rohanghuge21@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d)](https://rohan-resume.edgeone.app)
-[![GitHub](https://img.shields.io/badge/GitHub-roha301-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/roha301)
-
-</div>
+| Area | Direction |
+| --- | --- |
+| Full stack apps | Better architecture, cleaner flows, stronger deployment habits |
+| AI/ML | Practical projects that use models to solve useful problems |
+| UI/UX | Interfaces that look sharp and stay easy to use |
+| Simulations | Visual tools that explain technical systems clearly |
+| DevOps | Smoother build, deploy, and project delivery workflows |
 
 ---
 
+## Anime Mode
+
 <div align="center">
-
-## 🔥 `[ POWER LEVEL: OVER 9000 ]`
-
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="360" alt="Anime-style animated GIF">
 </div>
 
-### ⚛️ Frontend & Mobile
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### 🗡️ Backend & Databases
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🧠 AI / ML & Languages
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### ☁️ Cloud, DevOps & Tools
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-
----
-
-<div align="center">
-
-## 📊 `[ BATTLE STATISTICS ]`
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=roha301&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=f472b6&text_color=ffffff&ring_color=7c3aed&count_private=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=roha301&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=ffffff&langs_count=8" height="180"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=roha301&theme=radical&hide_border=true&background=0d0d0d&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888" alt="Streak Stats"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=roha301&bg_color=0d0d0d&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=7c3aed&hide_border=true" alt="Activity Graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌸 `[ RANDOM WISDOM ]`
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 `[ THE COMMIT SERPENT ]`
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roha301/roha301/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roha301/roha301/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/roha301/roha301/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║   ⚡  "Code is my jutsu. Bugs are my training arc."  ⚡      ║
-║         — Rohan Ghuge, Shinobi of the Stack 🥷                ║
-╚═══════════════════════════════════════════════════════════════╝
+```text
+main quest: build better software
+side quest: make the interface beautiful
+power-up: keep learning every day
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,50:7c3aed,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+---
 
+## Contact
+
+| Platform | Link |
+| --- | --- |
+| Email | [rohanghuge21@gmail.com](mailto:rohanghuge21@gmail.com) |
+| LinkedIn | [Rohan Ghuge](https://www.linkedin.com/in/rohan-ghuge-9b3ab0288) |
+| Instagram | [_.rohanghuge._](https://instagram.com/_.rohanghuge._) |
+| Resume | [rohan-resume.edgeone.app](https://rohan-resume.edgeone.app) |
+| GitHub | [github.com/roha301](https://github.com/roha301) |
+
+---
+
+<div align="center">
+  <b>Thanks for visiting. Check out my repositories and see what I am building.</b>
 </div>
